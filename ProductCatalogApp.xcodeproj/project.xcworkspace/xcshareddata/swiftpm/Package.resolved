@@ -1,5 +1,5 @@
 {
-  "originHash" : "6cd56cde79d1db4de71b97d70d0e59e3a82c2dea2b8a448e81174afcd103fb9d",
+  "originHash" : "0bdb8ed5fb33ee6143cfa7451c7b086f996049d685ecc8ce01789465debfa55c",
   "pins" : [
     {
       "identity" : "core",
@@ -25,7 +25,7 @@
       "location" : "git@github.com:aftabahmed1286/Dashboard.git",
       "state" : {
         "branch" : "main",
-        "revision" : "c7e0bb637382f643c67c698ba0d2e7520c9a946e"
+        "revision" : "01750a0a81d73179734282c0dfc0d13a0a654436"
       }
     },
     {
@@ -61,7 +61,7 @@
       "location" : "git@github.com:aftabahmed1286/Product.git",
       "state" : {
         "branch" : "main",
-        "revision" : "dd4cf78388c4bcfc44f72dd95484ec4159e8a949"
+        "revision" : "ef9f0b5e990f42fbb74dbb1dfc2aa0f55e5ce4df"
       }
     }
   ],

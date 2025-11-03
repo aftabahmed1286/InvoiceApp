@@ -7,30 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		390DC83A2E9C252E00771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8392E9C252E00771178 /* Core */; };
-		390DC83D2E9C253A00771178 /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC83C2E9C253A00771178 /* Customer */; };
-		390DC8402E9C254700771178 /* Dashboard in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC83F2E9C254700771178 /* Dashboard */; };
-		390DC8432E9C256C00771178 /* Invoice in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8422E9C256C00771178 /* Invoice */; };
 		390DC84C2E9C318D00771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC84B2E9C318D00771178 /* Core */; };
 		390DC8502E9C321F00771178 /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC84F2E9C321F00771178 /* Customer */; };
-		390DC8532E9C331700771178 /* Dashboard in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8522E9C331700771178 /* Dashboard */; };
-		390DC8562E9C332500771178 /* Inventory in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8552E9C332500771178 /* Inventory */; };
-		390DC8592E9C333200771178 /* Invoice in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8582E9C333200771178 /* Invoice */; };
-		390DC8622E9C36EC00771178 /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8612E9C36EC00771178 /* Customer */; };
-		390DC8652E9C380A00771178 /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8642E9C380A00771178 /* Customer */; };
-		390DC8682E9C3AC000771178 /* Dashboard in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8672E9C3AC000771178 /* Dashboard */; };
-		390DC86B2E9C3B0100771178 /* Invoice in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC86A2E9C3B0100771178 /* Invoice */; };
-		390DC86E2E9C3BEB00771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC86D2E9C3BEB00771178 /* Core */; };
-		390DC8712E9C3CE700771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8702E9C3CE700771178 /* Core */; };
 		390DC87C2E9CEB8D00771178 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 390DC87B2E9CEB8C00771178 /* README.md */; };
-		394F8CE62E9BBAFF0043E5CF /* PaymentReceipt in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CE52E9BBAFF0043E5CF /* PaymentReceipt */; };
-		394F8CE82E9BFDCD0043E5CF /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CE72E9BFDCD0043E5CF /* Core */; };
-		394F8CEB2E9C01040043E5CF /* Product in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CEA2E9C01040043E5CF /* Product */; };
-		394F8CEE2E9C03D20043E5CF /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CED2E9C03D20043E5CF /* Customer */; };
+		390DC8AF2E9EA10000771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 39B9AF362E9BADCA002F0945 /* Core */; };
+		390DC8B02E9EA10000771178 /* PaymentReceipt in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CE52E9BBAFF0043E5CF /* PaymentReceipt */; };
+		390DC8B12E9EA10000771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CE72E9BFDCD0043E5CF /* Core */; };
+		390DC8B22E9EA10000771178 /* Product in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CEA2E9C01040043E5CF /* Product */; };
+		390DC8B32E9EA10000771178 /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CED2E9C03D20043E5CF /* Customer */; };
+		390DC8B42E9EA10000771178 /* Inventory in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CF32E9C076F0043E5CF /* Inventory */; };
+		390DC8C02E9FF93100771178 /* PaymentReceipt in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8BF2E9FF93100771178 /* PaymentReceipt */; };
+		390DC8C32E9FF95400771178 /* Inventory in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8C22E9FF95400771178 /* Inventory */; };
+		390DC8C62E9FF97300771178 /* Product in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8C52E9FF97300771178 /* Product */; };
+		390DC8C92E9FF97F00771178 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8C82E9FF97F00771178 /* Core */; };
+		390DC8CC2E9FF9A400771178 /* Invoice in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8CB2E9FF9A400771178 /* Invoice */; };
+		390DC8CF2E9FF9D000771178 /* Dashboard in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8CE2E9FF9D000771178 /* Dashboard */; };
+		390DC8D22E9FF9DD00771178 /* Customer in Frameworks */ = {isa = PBXBuildFile; productRef = 390DC8D12E9FF9DD00771178 /* Customer */; };
 		394F8CF12E9C06000043E5CF /* Invoice in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CF02E9C06000043E5CF /* Invoice */; };
-		394F8CF42E9C076F0043E5CF /* Inventory in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CF32E9C076F0043E5CF /* Inventory */; };
 		394F8CF72E9C0A460043E5CF /* Dashboard in Frameworks */ = {isa = PBXBuildFile; productRef = 394F8CF62E9C0A460043E5CF /* Dashboard */; };
-		39B9AF372E9BADCA002F0945 /* Core in Frameworks */ = {isa = PBXBuildFile; productRef = 39B9AF362E9BADCA002F0945 /* Core */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,29 +58,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				390DC8432E9C256C00771178 /* Invoice in Frameworks */,
+				390DC8D22E9FF9DD00771178 /* Customer in Frameworks */,
+				390DC8B42E9EA10000771178 /* Inventory in Frameworks */,
+				390DC8CF2E9FF9D000771178 /* Dashboard in Frameworks */,
+				390DC8B32E9EA10000771178 /* Customer in Frameworks */,
+				390DC8B22E9EA10000771178 /* Product in Frameworks */,
+				390DC8CC2E9FF9A400771178 /* Invoice in Frameworks */,
+				390DC8C32E9FF95400771178 /* Inventory in Frameworks */,
+				390DC8B12E9EA10000771178 /* Core in Frameworks */,
+				390DC8C92E9FF97F00771178 /* Core in Frameworks */,
+				390DC8B02E9EA10000771178 /* PaymentReceipt in Frameworks */,
+				390DC8AF2E9EA10000771178 /* Core in Frameworks */,
+				390DC8C62E9FF97300771178 /* Product in Frameworks */,
 				394F8CF12E9C06000043E5CF /* Invoice in Frameworks */,
 				394F8CF72E9C0A460043E5CF /* Dashboard in Frameworks */,
-				390DC86E2E9C3BEB00771178 /* Core in Frameworks */,
-				390DC8712E9C3CE700771178 /* Core in Frameworks */,
+				390DC8C02E9FF93100771178 /* PaymentReceipt in Frameworks */,
 				390DC84C2E9C318D00771178 /* Core in Frameworks */,
-				394F8CF42E9C076F0043E5CF /* Inventory in Frameworks */,
-				394F8CEB2E9C01040043E5CF /* Product in Frameworks */,
 				390DC8502E9C321F00771178 /* Customer in Frameworks */,
-				390DC8562E9C332500771178 /* Inventory in Frameworks */,
-				390DC83D2E9C253A00771178 /* Customer in Frameworks */,
-				390DC8532E9C331700771178 /* Dashboard in Frameworks */,
-				390DC8622E9C36EC00771178 /* Customer in Frameworks */,
-				390DC8402E9C254700771178 /* Dashboard in Frameworks */,
-				394F8CE62E9BBAFF0043E5CF /* PaymentReceipt in Frameworks */,
-				390DC8682E9C3AC000771178 /* Dashboard in Frameworks */,
-				390DC8652E9C380A00771178 /* Customer in Frameworks */,
-				390DC83A2E9C252E00771178 /* Core in Frameworks */,
-				39B9AF372E9BADCA002F0945 /* Core in Frameworks */,
-				390DC8592E9C333200771178 /* Invoice in Frameworks */,
-				394F8CE82E9BFDCD0043E5CF /* Core in Frameworks */,
-				390DC86B2E9C3B0100771178 /* Invoice in Frameworks */,
-				394F8CEE2E9C03D20043E5CF /* Customer in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,21 +126,15 @@
 				394F8CF02E9C06000043E5CF /* Invoice */,
 				394F8CF32E9C076F0043E5CF /* Inventory */,
 				394F8CF62E9C0A460043E5CF /* Dashboard */,
-				390DC8392E9C252E00771178 /* Core */,
-				390DC83C2E9C253A00771178 /* Customer */,
-				390DC83F2E9C254700771178 /* Dashboard */,
-				390DC8422E9C256C00771178 /* Invoice */,
 				390DC84B2E9C318D00771178 /* Core */,
 				390DC84F2E9C321F00771178 /* Customer */,
-				390DC8522E9C331700771178 /* Dashboard */,
-				390DC8552E9C332500771178 /* Inventory */,
-				390DC8582E9C333200771178 /* Invoice */,
-				390DC8612E9C36EC00771178 /* Customer */,
-				390DC8642E9C380A00771178 /* Customer */,
-				390DC8672E9C3AC000771178 /* Dashboard */,
-				390DC86A2E9C3B0100771178 /* Invoice */,
-				390DC86D2E9C3BEB00771178 /* Core */,
-				390DC8702E9C3CE700771178 /* Core */,
+				390DC8BF2E9FF93100771178 /* PaymentReceipt */,
+				390DC8C22E9FF95400771178 /* Inventory */,
+				390DC8C52E9FF97300771178 /* Product */,
+				390DC8C82E9FF97F00771178 /* Core */,
+				390DC8CB2E9FF9A400771178 /* Invoice */,
+				390DC8CE2E9FF9D000771178 /* Dashboard */,
+				390DC8D12E9FF9DD00771178 /* Customer */,
 			);
 			productName = ProductCatalogApp;
 			productReference = 3924D2A72E95223F00F5D8CB /* ProductCatalogApp.app */;
@@ -183,10 +165,13 @@
 			mainGroup = 3924D29E2E95223F00F5D8CB;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				390DC8632E9C380A00771178 /* XCRemoteSwiftPackageReference "Customer" */,
-				390DC8662E9C3AC000771178 /* XCRemoteSwiftPackageReference "Dashboard" */,
-				390DC8692E9C3B0100771178 /* XCRemoteSwiftPackageReference "Invoice" */,
-				390DC86F2E9C3CE700771178 /* XCRemoteSwiftPackageReference "Core" */,
+				390DC8BE2E9FF93100771178 /* XCRemoteSwiftPackageReference "PaymentReceipt" */,
+				390DC8C12E9FF95400771178 /* XCRemoteSwiftPackageReference "Inventory" */,
+				390DC8C42E9FF97300771178 /* XCRemoteSwiftPackageReference "Product" */,
+				390DC8C72E9FF97F00771178 /* XCRemoteSwiftPackageReference "Core" */,
+				390DC8CA2E9FF9A400771178 /* XCRemoteSwiftPackageReference "Invoice" */,
+				390DC8CD2E9FF9D000771178 /* XCRemoteSwiftPackageReference "Dashboard" */,
+				390DC8D02E9FF9DD00771178 /* XCRemoteSwiftPackageReference "Customer" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 3924D2A82E95223F00F5D8CB /* Products */;
@@ -365,6 +350,8 @@
 				ENABLE_USER_SELECTED_FILES = readwrite;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ProductCatalogApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Invoice;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
 				INFOPLIST_KEY_NSCameraUsageDescription = "App Needs Camera";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -414,6 +401,8 @@
 				ENABLE_USER_SELECTED_FILES = readwrite;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ProductCatalogApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Invoice;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
 				INFOPLIST_KEY_NSCameraUsageDescription = "App Needs Camera";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -463,23 +452,39 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		390DC8632E9C380A00771178 /* XCRemoteSwiftPackageReference "Customer" */ = {
+		390DC8BE2E9FF93100771178 /* XCRemoteSwiftPackageReference "PaymentReceipt" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "git@github.com:aftabahmed1286/Customer.git";
+			repositoryURL = "git@github.com:aftabahmed1286/PaymentReceipt.git";
 			requirement = {
 				branch = main;
 				kind = branch;
 			};
 		};
-		390DC8662E9C3AC000771178 /* XCRemoteSwiftPackageReference "Dashboard" */ = {
+		390DC8C12E9FF95400771178 /* XCRemoteSwiftPackageReference "Inventory" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "git@github.com:aftabahmed1286/Dashboard.git";
+			repositoryURL = "git@github.com:aftabahmed1286/Inventory.git";
 			requirement = {
 				branch = main;
 				kind = branch;
 			};
 		};
-		390DC8692E9C3B0100771178 /* XCRemoteSwiftPackageReference "Invoice" */ = {
+		390DC8C42E9FF97300771178 /* XCRemoteSwiftPackageReference "Product" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:aftabahmed1286/Product.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		390DC8C72E9FF97F00771178 /* XCRemoteSwiftPackageReference "Core" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:aftabahmed1286/Core.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		390DC8CA2E9FF9A400771178 /* XCRemoteSwiftPackageReference "Invoice" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:aftabahmed1286/Invoice.git";
 			requirement = {
@@ -487,9 +492,17 @@
 				kind = branch;
 			};
 		};
-		390DC86F2E9C3CE700771178 /* XCRemoteSwiftPackageReference "Core" */ = {
+		390DC8CD2E9FF9D000771178 /* XCRemoteSwiftPackageReference "Dashboard" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "git@github.com:aftabahmed1286/Core.git";
+			repositoryURL = "git@github.com:aftabahmed1286/Dashboard.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		390DC8D02E9FF9DD00771178 /* XCRemoteSwiftPackageReference "Customer" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:aftabahmed1286/Customer.git";
 			requirement = {
 				branch = main;
 				kind = branch;
@@ -498,22 +511,6 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		390DC8392E9C252E00771178 /* Core */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Core;
-		};
-		390DC83C2E9C253A00771178 /* Customer */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Customer;
-		};
-		390DC83F2E9C254700771178 /* Dashboard */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Dashboard;
-		};
-		390DC8422E9C256C00771178 /* Invoice */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Invoice;
-		};
 		390DC84B2E9C318D00771178 /* Core */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = Core;
@@ -522,45 +519,40 @@
 			isa = XCSwiftPackageProductDependency;
 			productName = Customer;
 		};
-		390DC8522E9C331700771178 /* Dashboard */ = {
+		390DC8BF2E9FF93100771178 /* PaymentReceipt */ = {
 			isa = XCSwiftPackageProductDependency;
-			productName = Dashboard;
+			package = 390DC8BE2E9FF93100771178 /* XCRemoteSwiftPackageReference "PaymentReceipt" */;
+			productName = PaymentReceipt;
 		};
-		390DC8552E9C332500771178 /* Inventory */ = {
+		390DC8C22E9FF95400771178 /* Inventory */ = {
 			isa = XCSwiftPackageProductDependency;
+			package = 390DC8C12E9FF95400771178 /* XCRemoteSwiftPackageReference "Inventory" */;
 			productName = Inventory;
 		};
-		390DC8582E9C333200771178 /* Invoice */ = {
+		390DC8C52E9FF97300771178 /* Product */ = {
 			isa = XCSwiftPackageProductDependency;
+			package = 390DC8C42E9FF97300771178 /* XCRemoteSwiftPackageReference "Product" */;
+			productName = Product;
+		};
+		390DC8C82E9FF97F00771178 /* Core */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 390DC8C72E9FF97F00771178 /* XCRemoteSwiftPackageReference "Core" */;
+			productName = Core;
+		};
+		390DC8CB2E9FF9A400771178 /* Invoice */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 390DC8CA2E9FF9A400771178 /* XCRemoteSwiftPackageReference "Invoice" */;
 			productName = Invoice;
 		};
-		390DC8612E9C36EC00771178 /* Customer */ = {
+		390DC8CE2E9FF9D000771178 /* Dashboard */ = {
 			isa = XCSwiftPackageProductDependency;
-			productName = Customer;
-		};
-		390DC8642E9C380A00771178 /* Customer */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 390DC8632E9C380A00771178 /* XCRemoteSwiftPackageReference "Customer" */;
-			productName = Customer;
-		};
-		390DC8672E9C3AC000771178 /* Dashboard */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 390DC8662E9C3AC000771178 /* XCRemoteSwiftPackageReference "Dashboard" */;
+			package = 390DC8CD2E9FF9D000771178 /* XCRemoteSwiftPackageReference "Dashboard" */;
 			productName = Dashboard;
 		};
-		390DC86A2E9C3B0100771178 /* Invoice */ = {
+		390DC8D12E9FF9DD00771178 /* Customer */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 390DC8692E9C3B0100771178 /* XCRemoteSwiftPackageReference "Invoice" */;
-			productName = Invoice;
-		};
-		390DC86D2E9C3BEB00771178 /* Core */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Core;
-		};
-		390DC8702E9C3CE700771178 /* Core */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 390DC86F2E9C3CE700771178 /* XCRemoteSwiftPackageReference "Core" */;
-			productName = Core;
+			package = 390DC8D02E9FF9DD00771178 /* XCRemoteSwiftPackageReference "Customer" */;
+			productName = Customer;
 		};
 		394F8CE52E9BBAFF0043E5CF /* PaymentReceipt */ = {
 			isa = XCSwiftPackageProductDependency;
